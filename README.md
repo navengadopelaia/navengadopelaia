@@ -18,30 +18,42 @@
 - 🌱 **Sempre aprendendo:** Novos modelos de IA (GPT-4, Claude, LangChain) e frameworks de automação
 - 👯 **Buscando colaborar em:** Projetos open source de IA e automação empresarial
 - 💬 **Pergunte-nos sobre:** Como implementar IA no seu negócio sem complicação
-- 📫 **Como nos encontrar:** contato@naiasolutions.io
+- 📫 **Como nos encontrar:** [contato@naiasolutions.io](mailto:contato@naiasolutions.io)
 - ⚡ **Curiosidade:** Nossos agentes já economizaram mais de 2.000 horas de trabalho manual por mês para nossos clientes!
 
 ---
 
 ### 🚀 Nossos Agentes
 
-```javascript
-const naiaSolutions = {
-  agentes: {
-    comercial: ["Qualificação de Leads", "Follow-up Automatizado", "Previsão de Vendas"],
-    financeiro: ["Análise de Fluxo", "Conciliação Bancária", "Detecção de Anomalias"],
-    midiaPaga: ["Otimização de Campanhas", "Análise de ROI", "Relatórios Multi-plataforma"],
-    socialOrganico: ["Geração de Conteúdo", "Agendamento Inteligente", "Análise de Engajamento"],
-    paraAgencias: ["Copywriting AI", "Geração de Imagens", "Produção de Vídeos"]
-  },
-  tecnologias: ["OpenAI", "Claude", "LangChain", "TypeScript", "Python", "Next.js"],
-  resultados: {
-    tempoEconomizado: "2.000+ horas/mês",
-    roiMedio: "+45%",
-    implementacao: "48-72h"
-  }
-};
-```
+**💼 Comercial**
+- Qualificação de Leads
+- Follow-up Automatizado
+- Previsão de Vendas
+
+**💰 Financeiro**
+- Análise de Fluxo de Caixa
+- Conciliação Bancária
+- Detecção de Anomalias
+
+**📱 Mídia Paga**
+- Otimização de Campanhas
+- Análise de ROI
+- Relatórios Multi-plataforma
+
+**🌱 Social Orgânico**
+- Geração de Conteúdo
+- Agendamento Inteligente
+- Análise de Engajamento
+
+**✍️ Para Agências**
+- Copywriting AI
+- Geração de Imagens
+- Produção de Vídeos
+
+**📊 Resultados**
+- ⚡ Tempo economizado: 2.000+ horas/mês
+- 📈 ROI médio: +45%
+- 🚀 Implementação: 48-72h
 
 ---
 
@@ -125,7 +137,7 @@ const naiaSolutions = {
 [![Website](https://img.shields.io/badge/Website-naiasolutions.io-0A66C2?style=for-the-badge)](https://naiasolutions.io/)
 [![Email](https://img.shields.io/badge/Email-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@naiasolutions.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/naiasolutions)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511968471046&text=Ol%C3%A1%2C+quero+saber+mais+sobre+automa%C3%A7%C3%B5es&type=phone_number&app_absent=0)
 
 </div>
 
