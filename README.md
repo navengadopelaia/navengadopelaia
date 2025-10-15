@@ -5,7 +5,7 @@
 <div align="center">
   
 [![Website](https://img.shields.io/badge/🌐-naiasolutions.io-blue?style=for-the-badge)](https://naiasolutions.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/naiasolutions)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/naia-solutions)
 
 </div>
 
@@ -136,7 +136,7 @@
 
 [![Website](https://img.shields.io/badge/Website-naiasolutions.io-0A66C2?style=for-the-badge)](https://naiasolutions.io/)
 [![Email](https://img.shields.io/badge/Email-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@naiasolutions.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/naiasolutions)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/naia-solutions)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511968471046&text=Ol%C3%A1%2C+quero+saber+mais+sobre+automa%C3%A7%C3%B5es&type=phone_number&app_absent=0)
 
 </div>
